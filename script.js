@@ -1,4 +1,4 @@
-let currentBalance = 20000;
+let currentBalance = 0;
 
 document.getElementById('login-form').addEventListener('submit', function(e) {
   e.preventDefault();
